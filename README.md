@@ -2,7 +2,7 @@
 A basic web-based calculator using HTML, CSS, and JavaScript.
 
 ## Demo
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshoot.png)
 🔗 [Live Demo](http://127.0.0.1:5500/calculator.html)
 
 ## Features
